@@ -1,0 +1,5 @@
+﻿seven
+eight
+right
+wrong
+trunk
